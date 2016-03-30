@@ -6,7 +6,7 @@
 
 ### 点击进入
 
-** [命运石之门]()**
+** [命运石之门](https://github.com/coocon/leetcode/blob/master/index.md)**
 
 
 
