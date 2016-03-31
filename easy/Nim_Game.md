@@ -32,6 +32,19 @@ var canWinNim = function(n) {
     
 };
 ```
+精简以下以上的逻辑最终形势是：
+
+```js
+/**
+ * @param {number} n
+ * @return {boolean}
+ */
+var canWinNim = function(n) {
+    
+    return !!(n % 4);
+    
+};
+```
 
 
 

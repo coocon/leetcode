@@ -120,4 +120,18 @@ var addDigits = function(num) {
 
 随即又提交了一版。
 
+上边的解法还是不够精简，最终整合成以下简单的写法：
+
+```js
+/**
+ * @param {number} num
+ * @return {number}
+ */
+var addDigits = function(num) {
+
+    return 1 + (num - 1) % 9;
+};
+```
+
+
 ** LeetCode 地址: ** [https://leetcode.com/problems/add-digits/](https://leetcode.com/problems/add-digits/)
