@@ -64,4 +64,4 @@ var maxDepth = function(root) {
 };
 ```
 
-** LeetCode 地址: ** [https://leetcode.com/problems/add-digits/](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+** LeetCode 地址: ** [https://leetcode.com/problems/maximum-depth-of-binary-tree/](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
